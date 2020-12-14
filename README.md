@@ -5,7 +5,7 @@ Cryptography script List:
 * Caesar Cipher 
 * Caesar Cipher Hack - Bruteforce of the Caesar Cipher
 * Revers Cipher
-* Transition Cipher Decryption_With input - Asks for your message to decrypt and key
-* Transition Cipher Encryption_With input - Asks for your message to encrypt and key
+* Transition Cipher Decryption_With input - Asks for your message to decrypt and decryption key
+* Transition Cipher Encryption_With input - Asks for your message to encrypt and encryption key
 * transpostionDecrypt - decrypt script for AutomatedCipherTest
-* transpositionEncrypt - encript script f or AutomatedCipherTest
+* transpositionEncrypt - encrypt script f or AutomatedCipherTest
