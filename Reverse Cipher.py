@@ -1,4 +1,4 @@
-# Revers Cipher
+# Reverse Cipher
 
 message = input('What is your message?')
 
