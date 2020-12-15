@@ -34,7 +34,7 @@ def main():
     if hackedMessage == None:
         print('Failed to hack encryption.')
     else:
-        # Write out the translated message to the output file:
+        # Write out the decrypted message to the output file:
         outputFileObj = open(outputFilename, 'w')
         outputFileObj.write(hackedMessage)
         outputFileObj.close()
