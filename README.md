@@ -8,8 +8,8 @@ Cryptography script List:
 * caesarCipher 
 * caesarHack - Brute force of the Caesar Cipher files
 * reverseCipher
-* Transition Cipher Decryption_With input - Asks for your message to decrypt and decryption key
-* Transition Cipher Encryption_With input - Asks for your message to encrypt and encryption key
+* transitionCipherDecryption_With input - Asks for your message to decrypt and decryption key
+* transitionCipherEncryption_With input - Asks for your message to encrypt and encryption key
 * transpostionDecrypt - decrypt script for AutomatedCipherTest
 * transpositionEncrypt - encrypt script for AutomatedCipherTest
 * transpositionFileCipher - encrypt/decrypt plaintext files
