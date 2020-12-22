@@ -10,8 +10,6 @@ def main():
     #myMessage = """"5QG9ol3La6QI93!xQxaia6faQL9QdaQG1!!axQARLa!!AuaRLQADQALQG93!xQxaGaAfaQ1QX3o1RQARL9Qda!AafARuQLX1LQALQI1iQX3o1RN"Q-5!1RQP36ARu"""
 
     myMessage = input("""Enter your message: """)
-    #myMessage = """"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." -Alan Turing"""
-
     hackedMessage = hackAffine(myMessage)
 
     if hackedMessage != None:
